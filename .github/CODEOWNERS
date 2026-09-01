@@ -37,7 +37,3 @@
 # Documentation
 /docs/                       @microsoft/agent-governance-toolkit
 *.md                         @microsoft/agent-governance-toolkit
-
-# TLC 4.5 governance ownership
-/.governance/tlc/ @MichaelSaucier
-/.github/workflows/tlc-4.5.yml @MichaelSaucier
